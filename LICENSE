@@ -1,23 +1,54 @@
-MIT License
-
 Copyright (c) 2026 DTASLOI
 
+This license applies to the compiled binary library ("DTASLOI"),
+distributed as a dynamic-link library (.dll) file, and any accompanying
+documentation.
+
+## Grant of Rights
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of the Library, to use, copy, distribute, and link against the Library
+(statically or dynamically) in their own software ("Your Application"),
+subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **No Modification.** You may not modify, patch, alter, reverse engineer,
+   decompile, disassemble, or otherwise attempt to derive the source code
+   of the Library, or create derivative works based on it, in whole or in
+   part. The Library must be used and distributed only in its original,
+   unaltered binary form. *(If you want to explicitly permit reverse
+   engineering solely for interoperability purposes, as some jurisdictions'
+   laws require regardless of license terms, add a carve-out here.)*
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+2. **Linking Permitted.** You may link Your Application against the
+   Library and distribute the unmodified Library alongside Your
+   Application, including for commercial purposes. *(Remove or restrict
+   this clause if you don't want the DLL bundled/redistributed with
+   third-party software.)*
+
+3. **No Repackaging.** You may not extract, repackage, or redistribute
+   the Library separately from its original distribution package, other
+   than bundling the unmodified .dll file alongside Your Application as
+   permitted above.
+
+4. **Attribution.** The above copyright notice and this license text must
+   be included, unaltered, with all copies of the Library you distribute
+   (e.g., in Your Application's documentation or "about" file).
+
+5. **No Sublicensing of Modification Rights.** You may not grant any other
+   party rights to modify the Library beyond what is granted here.
+
+## No Warranty
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER
+DEALINGS IN THE WORK.
 
-YOU MAY DISTRIBUTE, SHARE, BUT YOU MAY NOT MODIFY THE SOFTWARE (DTASLOI).
+## Termination
+
+Any use of the Work that violates these terms — including any modification
+or creation of derivative works — automatically terminates your rights
+under this license.
