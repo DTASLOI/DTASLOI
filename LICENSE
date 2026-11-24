@@ -1,54 +1,33 @@
-Copyright (c) 2026 DTASLOI
+# Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+(CC BY-NC-ND 4.0)
 
-This license applies to the compiled binary library ("DTASLOI"),
-distributed as a dynamic-link library (.dll) file, and any accompanying
-documentation.
+Copyright © [2026] [DTASLOI]
 
-## Grant of Rights
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of the Library, to use, copy, distribute, and link against the Library
-(statically or dynamically) in their own software ("Your Application"),
-subject to the following conditions:
+## You are free to:
+- **Share** — copy and redistribute the material in any medium or format
 
-1. **No Modification.** You may not modify, patch, alter, reverse engineer,
-   decompile, disassemble, or otherwise attempt to derive the source code
-   of the Library, or create derivative works based on it, in whole or in
-   part. The Library must be used and distributed only in its original,
-   unaltered binary form. *(If you want to explicitly permit reverse
-   engineering solely for interoperability purposes, as some jurisdictions'
-   laws require regardless of license terms, add a carve-out here.)*
+---
 
-2. **Linking Permitted.** You may link Your Application against the
-   Library and distribute the unmodified Library alongside Your
-   Application, including for commercial purposes. *(Remove or restrict
-   this clause if you don't want the DLL bundled/redistributed with
-   third-party software.)*
+## Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-3. **No Repackaging.** You may not extract, repackage, or redistribute
-   the Library separately from its original distribution package, other
-   than bundling the unmodified .dll file alongside Your Application as
-   permitted above.
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others
+from doing anything the license permits.
 
-4. **Attribution.** The above copyright notice and this license text must
-   be included, unaltered, with all copies of the Library you distribute
-   (e.g., in Your Application's documentation or "about" file).
+---
 
-5. **No Sublicensing of Modification Rights.** You may not grant any other
-   party rights to modify the Library beyond what is granted here.
+## Notices:
+- You do **not** have to comply with the license for elements of the material in the public domain
+  or where your use is permitted by an applicable exception or limitation.
+- No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-## No Warranty
+---
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
-ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER
-DEALINGS IN THE WORK.
-
-## Termination
-
-Any use of the Work that violates these terms — including any modification
-or creation of derivative works — automatically terminates your rights
-under this license.
+Full License Text:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
